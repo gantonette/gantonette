@@ -5,9 +5,9 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/gantonetto/gantonetto"/> 
- <img src="https://badges.pufler.dev/repos/gantonetto"/>
- <img src="https://badges.pufler.dev/commits/all/gantonetto" />
+ <img src="https://badges.pufler.dev/visits/gantonette/gantonette"/> 
+ <img src="https://badges.pufler.dev/repos/gantonette"/>
+ <img src="https://badges.pufler.dev/commits/all/gantonette" />
 
 </p>
 
@@ -40,7 +40,7 @@ Looking to start my career as an entry-level software engineer with a reputed co
  <img src="https://img.shields.io/badge/-gantonetto-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gantonetto@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/tazbruce/">
- <img src="https://img.shields.io/badge/-TazBruce-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tazbruce/"/>
+ <img src="https://img.shields.io/badge/-TazBruce-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gantonette/"/>
 </a>
 </p>
 
@@ -53,14 +53,14 @@ Looking to start my career as an entry-level software engineer with a reputed co
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=gantonetto&show_icons=true&theme=radical&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=gantonette&show_icons=true&theme=radical&line_height=27">
 </p>
 
 <p align = "center">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gantonetto&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gantonette&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
  
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gantonetto&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gantonette&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 <hr>
