@@ -1,13 +1,13 @@
 <p align="center">
- <h1 align="center">Hey 👋, I'm Tasman Bruce</h1>
+ <h1 align="center">Hey 👋, I'm Gayle</h1>
  <h3 align="center">A computer science student from VUW (Victoria University of Wellington)</h3>
 </p align="center">
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/TazBruce/TazBruce"/> 
- <img src="https://badges.pufler.dev/repos/TazBruce"/>
- <img src="https://badges.pufler.dev/commits/all/TazBruce" />
+ <img src="https://badges.pufler.dev/visits/gantonetto/gantonetto"/> 
+ <img src="https://badges.pufler.dev/repos/gantonetto"/>
+ <img src="https://badges.pufler.dev/commits/all/gantonetto" />
 
 </p>
 
@@ -36,8 +36,8 @@ Looking to start my career as an entry-level software engineer with a reputed co
 <h2 align="center">Contact Me</h2>
 
 <p align="center">
-<a href="mailto: tasmanbrucework@gmail.com">
- <img src="https://img.shields.io/badge/-TazBruce-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tasmanbrucework@gmail.com"/>
+<a href="mailto: gayle7821@gmail.com">
+ <img src="https://img.shields.io/badge/-gantonetto-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gantonetto@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/tazbruce/">
  <img src="https://img.shields.io/badge/-TazBruce-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tazbruce/"/>
@@ -53,14 +53,14 @@ Looking to start my career as an entry-level software engineer with a reputed co
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=TazBruce&show_icons=true&theme=radical&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=gantonetto&show_icons=true&theme=radical&line_height=27">
 </p>
 
 <p align = "center">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TazBruce&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gantonetto&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
  
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TazBruce&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gantonetto&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 <hr>
