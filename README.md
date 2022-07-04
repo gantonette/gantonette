@@ -1,19 +1,11 @@
 <p align="center">
- <h1 align="center">Hey 👋, I'm Gayle</h1>
- <h3 align="center">A computer science student from VUW (Victoria University of Wellington)</h3>
+ <h1 align="center">Hello 😄, I'm Gayle!</h1>
+ <h3 align="center">Computer Science and Information Systems student at Victoria University of Wellington</h3>
 </p align="center">
 
 <p align="center">
- 
- <img src="https://badges.pufler.dev/visits/gantonette/gantonette"/> 
- <img src="https://badges.pufler.dev/repos/gantonette"/>
- <img src="https://badges.pufler.dev/commits/all/gantonette" />
 
 </p>
-
-<!-- <p align="center">
-Looking to start my career as an entry-level software engineer with a reputed company that aims for well-documented test-driven development. Skilled in design and integration with intuitive problem-solving skills. Proficient in Java, C#, Python, Javascript, and SQL alongside Web Frameworks such as VueJS, Angular and many more. Strong ability to translate business requirements into technical solutions. Passionate about implementing and launching new projects with a team of like-minded individuals.
-</p>   -->
 
 <h2 align="center">Technology Stack</h2>
 
@@ -37,9 +29,9 @@ Looking to start my career as an entry-level software engineer with a reputed co
 
 <p align="center">
 <a href="mailto: gayle7821@gmail.com">
- <img src="https://img.shields.io/badge/-gantonetto-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gantonetto@gmail.com"/>
+ <img src="https://img.shields.io/badge/-gantonette-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gayle7821@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/tazbruce/">
+<a href="https://www.linkedin.com/in/gantonette/">
  <img src="https://img.shields.io/badge/-TazBruce-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gantonette/"/>
 </a>
 </p>
