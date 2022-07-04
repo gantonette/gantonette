@@ -32,7 +32,7 @@
  <img src="https://img.shields.io/badge/-gantonette-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gayle7821@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/gantonette/">
- <img src="https://img.shields.io/badge/-TazBruce-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gantonette/"/>
+ <img src="https://img.shields.io/badge/-gantonette-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gantonette/"/>
 </a>
 </p>
 
