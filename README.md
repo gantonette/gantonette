@@ -3,8 +3,6 @@
  <h3 align="center">Computer Science and Information Systems student at Victoria University of Wellington</h3>
 </p align="center">
 
-<h2 align="center"> www.gantonetto.net </h2>
-
 
 
 <h2 align="center">Languages and Tools</h2>
