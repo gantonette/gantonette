@@ -3,11 +3,9 @@
  <h3 align="center">Computer Science and Information Systems student at Victoria University of Wellington</h3>
 </p align="center">
 
-<h1 align="center"> My profile: www.gantonetto.net </h1>
+<h2 align="center"> www.gantonetto.net </h2>
 
-<p align="center">
 
-</p>
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
